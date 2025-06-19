@@ -1,3 +1,11 @@
+// Code by -Md. Sabbir Hasan Talukder
+// Supervised by - Dr. Md. Enamul Hoque
+// Final year BSC in Physics project
+// Copyright - Department of Physics, SUST, Sylhet, Bangladesh
+// licence - GNU GPL v3 
+
+
+
 #define SENSOR_PIN  2  // Pin connected to A3144 OUT
 
 void setup() {
