@@ -1,3 +1,10 @@
+// Code by -Md. Sabbir Hasan Talukder
+// Supervised by - Dr. Md. Enamul Hoque
+// Final year BSC in Physics project
+// Copyright - Department of Physics, SUST, Sylhet, Bangladesh
+// licence - GNU GPL v3
+
+
 #define PWM_PIN 18
 #define PWM_CHANNEL 0
 #define PWM_FREQ 50
